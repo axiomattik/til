@@ -21,7 +21,7 @@ switch $_SERVER['REQUEST_URI'] {
 }
 ```
 
-However, if the `templates/index.php` contains, as one might expect, anything that makes a further request to the server, such as link tag for a stylesheet, that request will also be subject to `router.php`.
+However, if the `templates/index.php` contains, as one might expect, anything that makes a further request to the server, such as a link tag for a stylesheet, that request will also be subject to `router.php`.
 
 So even if we have a directory structure that looks like:
 

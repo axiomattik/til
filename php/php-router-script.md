@@ -38,7 +38,7 @@ So even if we have a directory structure that looks like:
 
 A request made in `templates/index.php` by a tag like `<link rel="stylesheet" href="/assets/css/style.css">`, which refers to an existent static file, will receive a 404 response.
 
-To prevent this and allow `router.php` to serve static files (without having to laboriously add a route for each one--which I definitely didn't start to do), we can add the following check to the top of `router.php`:
+To prevent this and allow `router.php` to serve static files (without having to laboriously add a route for each one—which I definitely didn't start to do), we can add the following check to the top of `router.php`:
 
 ```<?php
 // router.php

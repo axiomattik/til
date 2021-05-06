@@ -2,7 +2,7 @@
 
 Concise write-ups about the things I have learned during the course of my interactions with a computer.
 
-2020-05-05: [Brace Expansion in Bash](/bash/brace-expansion.md)
+2020-05-06: [Brace Expansion in Bash](/bash/brace-expansion.md)
 
 2020-05-05: [1-Bar: String Operator Precedence in PHP](/php/1-bar.md)
 
@@ -12,4 +12,4 @@ Concise write-ups about the things I have learned during the course of my intera
 
 ---
 
-Inspired by https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9
+Inspired by [Josh Brancahud](https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9)

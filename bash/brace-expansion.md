@@ -25,27 +25,15 @@ a1b a3b a5b a7b a9b
 
 Okay, great. But none of those examples are particularly practical. How can brace expansion be useful?
 
-- renaming a file:
+- renaming a file: `mv file.{txt,md}`
 
-`mv file.{txt,md}`
+- making backups files: `cp /path/to/file.txt{,.bak}`
 
-- making backups files:
+- creating a set of directories: `mkdir /assets/{img,css,js}`
 
-`cp /path/to/file.txt{,.bak}`
+- or a set of files: `touch file{1..3}.txt`
 
-- creating a set of directories:
+- installing multiple libraries: `apt install lib{foo,bar,baz,bizzle}-dev`
 
-`mkdir /assets/{img,css,js}`
-
-- or a set of files:
-
-`touch file{1..3}.txt`
-
-- installing multiple libraries
-
-`apt install lib{foo,bar,baz,bizzle}-dev`
-
-- downloading a set of webpages:
-
-`wget https://website.com/comic/page{1..42}.html`
+- downloading a set of webpages: `wget https://website.com/comic/page{1..42}.html`
 

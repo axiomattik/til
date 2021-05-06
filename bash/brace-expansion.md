@@ -4,7 +4,7 @@ Bash has a useful feature called 'brace expansion' which allows the generation o
 
 Its forms is:
 
-> *preamble* + { + comma-separated strings | sequence + } + *postscript*
+*preamble* + { + comma-separated strings | sequence + } + *postscript*
 
 Both the preamble and the postscript are optional.
 

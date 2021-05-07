@@ -12,7 +12,7 @@ Given that a web page is generally a two-dimensional document and inline and blo
 
 In order to achieve these things we need to be able to create new formatting contexts.
 
-Historically this has been done implicitly by changing an element's inner display type by using one of several methods:
+Historically this has been done by implicitly changing an element's inner display type by using one of several methods:
 
 - assigning a legacy value to an element's display property
 - floating an element

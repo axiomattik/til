@@ -4,7 +4,7 @@ The [CSS Display Module Level 3](https://drafts.csswg.org/css-display/) specific
 
 Why is this a good thing?
 
-By default the root element of a web page (`<html>`) creates a *block formatting context* which, inspired by raw text, arranges its child elements in a *normal flow* from left to right<sup>[1](#writing-mode)</sup>, wrapping the onto a new line when it runs out of horizontal space. 
+By default the root element of a web page (`<html>`) creates a *block formatting context* which, inspired by raw text, arranges its child elements in a *normal flow* from left to right<sup>[1](#writing-mode)</sup>, wrapping them onto a new line when it runs out of horizontal space. 
 
 A block formatting context recognises two kinds of elements: `inline` and `block`. Inline elements, such as `a` and `span`, conform to the left-to-right flow direction. Block elements, however, such as `h1..6`, `p`, and `div`, are ensconced between new lines and take up the entire width of their parent, so that they appear to stack like blocks on top of one another.
 
@@ -30,7 +30,7 @@ The two-value syntax of the display property is:
 The table below shows the legacy value, its two-value equivalent, and whether or not a new formatting context is created.
 
 legacy value | two-value equivalent | creates new formatting context
------------- | -------------------- | ------------------------------
+:----------- | :------------------- | :-----------------------------
 block				 | block flow						| no
 inline			 | inline flow				  | no
 inline-block | inline flow-root			| yes

@@ -42,4 +42,4 @@ flow-root    | block flow-root			| yes
 
 ---
 
-<a name="writing-mode">1</a>: Flow direction can be reversed to right-to-left usings [CSS Writing Modes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Writing_Modes).
+<a name="writing-mode">1</a>: Flow direction can be reversed to right-to-left using [CSS Writing Modes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Writing_Modes).

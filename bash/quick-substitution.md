@@ -38,4 +38,4 @@ echo bar black sheep bar black sheep
 bar black sheep bar black sheep
 ```
 
-Maybe that wasn't quite what I was aiming for. Maybe I'll leave it as an exercise for the reader to improve that last command.
+Maybe that wasn't quite what I was aiming for. I'll leave it as an exercise for the reader to improve that last command.

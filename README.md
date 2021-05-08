@@ -1,5 +1,3 @@
-# TIL by Axiomattik
-
 Concise write-ups about the things I have learned during the course of my interactions with a computer.
 
 2020-05-08: [Bash's Quick Substitution](/bash/quick-substitution.md)

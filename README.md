@@ -2,6 +2,8 @@
 
 Concise write-ups about the things I have learned during the course of my interactions with a computer.
 
+2020-05-08: [Bash's Quick Substitution](/bash/quick-substitution.md)
+
 2020-05-07: [Two-value Syntax of CSS's Display Property](/css/two-value-display.md)
 
 2020-05-06: [The Needle in PHP's Haystack](/php/needle-haystack.md)

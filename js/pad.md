@@ -1,6 +1,6 @@
 # JavaScript's padStart and padEnd
 
-If you have these three strings: `'1', '12', '123'` And you'd like them all to be the same length with leading zeroes, then you might do what I have been in the habit of doing for a long time and write a helper function, such as:
+If you have these three strings: `'1', '12', '123'`, and you'd like them all to be the same length with leading zeroes, then you might do what I have been in the habit of doing for a long time and write a helper function, such as:
 
 ```
 function zfill(s, targetLength) {

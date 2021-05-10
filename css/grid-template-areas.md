@@ -1,6 +1,6 @@
-# The grid-template-area property in CSS
+# The grid-template-areas property in CSS
 
-CSS' `grid-template-area` property can be used to create a grid with named cells of arbitrary rectangular areas.
+CSS' `grid-template-areas` property can be used to create a grid with named cells of arbitrary rectangular areas.
 
 ```
 #container {

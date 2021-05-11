@@ -1,5 +1,7 @@
 Concise write-ups about the things I have learned during the course of my interactions with a computer.
 
+2020-05-11: [Echo Without Echo in PHP](/php/echo.md)
+
 2020-05-10: [The grid-template-areas property in CSS](/css/grid-template-areas.md)
 
 2020-05-09: [JavaScript's padStart and padEnd](/js/pad.md)

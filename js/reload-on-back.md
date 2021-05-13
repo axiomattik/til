@@ -9,8 +9,8 @@ This could be a little tricky because most modern browsers don't re-run any scri
 ```
 window.addEventListener("pageshow", function() {
   let navtype = window.performance.getEntriesByType("navigation")[0].type;
-	if ( navtype == "back_forward" ) {
-		window.location.reload(true);
-	}
+  if ( navtype == "back_forward" ) {
+    window.location.reload(true);
+  }
 } );
 ```

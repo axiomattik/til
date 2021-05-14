@@ -1,5 +1,7 @@
 Concise write-ups about the things I have learned during the course of my interactions with a computer.
 
+2020-05-14: [CSS's clip-path Property](/css/clip-path.md)
+
 2020-05-13: [Reload on Back](/js/reload-on-back.md)
 
 2020-05-12: [Checking Memory Usage of Objects in Python3](/python3/getsizeof.md)
